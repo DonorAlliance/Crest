@@ -1,15 +1,56 @@
-﻿name,years_of_experience,work_specialty
-'Alice',1, 'Data'
- 'Bob',2, 'Clinical'
- 'Charlie',3, 'Management'
- 'David',4, 'Data'
- 'Eva',5, 'Clinical'
- 'Frank',6, 'Management'
- 'Grace',7, 'Clinical'
- 'Hank',8, 'Data'
- 'Ivy',9, 'Clinical'
- 'Jack',10, 'Data'
- 'Jake Young',15, 'Data'
- 'Cassie Hertert',9, 'Management'
- 'Dylan Taylor',2, 'Data'
- 'Kate Mackenzie',5, 'Data'
+﻿name,department,role,exp clinical,exp tech,exp donation,depth clinical,depth tech
+Cassie Hertert,Business Intelligence / Data Analytics,Consumer,<1yr,10+yrs,5-10yrs,Competent,Advanced
+Michael Fite,Business Intelligence / Data Analytics,Analyst,5-10yrs,5-10yrs,10+yrs,Advanced,Advanced
+Brandon McKown,Information Technology / Infrastructure ,Analyst,null,10+yrs,null,null,Expert
+Dylan Taylor,Business Intelligence / Data Analytics,Analyst,<1yr,1-3yrs,1-3yrs,Novice,Advanced
+Jake Young,Business Intelligence / Data Analytics,Analyst,null,5-10yrs,null,Competent,Advanced
+Tiffany Kelly,Business Intelligence / Data Analytics,Consumer,1-3yrs,1-3yrs,5-10yrs,Advanced,Competent
+Andre Romain,Business Intelligence / Data Analytics,Analyst,5-10yrs,5-10yrs,10+yrs,Advanced,Advanced
+Jen Nevins,"Continuous Improvement, including Quality and BI/Data Analytics",Quality Assurance,10+yrs,1-3yrs,1-3yrs,Competent,Novice
+Matilin Rigsby,Business Intelligence / Data Analytics,Analyst,1-3yrs,1-3yrs,1-3yrs,Competent,Competent
+Matthew A. Freil,Business Development / Marketing / Sales,Creator,10+yrs,1-3yrs,10+yrs,Expert,Novice
+Tandy Smedberg,Business Intelligence / Data Analytics,Analyst,<1yr,10+yrs,5-10yrs,Novice,Advanced
+David G Gonzalez,"IT Manager, Software Developer, DB Admin, Data Analyst",Engineer,10+yrs,10+yrs,10+yrs,Competent,Expert
+Anna Adams,Business Intelligence / Data Analytics,Analyst,3-5yrs,3-5yrs,1-3yrs,Competent,Competent
+John Stallbaum,Business Intelligence / Data Analytics,Consumer,10+yrs,10+yrs,10+yrs,Advanced,Competent
+Kate Mackenzie,Business Intelligence / Data Analytics,Analyst,<1yr,5-10yrs,5-10yrs,Competent,Advanced
+Amanda Theis,Business Intelligence / Data Analytics,Analyst,null,5-10yrs,null,null,Competent
+Bill Janczak,Business Intelligence / Data Analytics,Quality Assurance,5-10yrs,10+yrs,5-10yrs,Advanced,Advanced
+Traci Adams,Business Intelligence / Data Analytics,Consumer,10+yrs,<1yr,10+yrs,Expert,Novice
+Greg Collins,Business Intelligence / Data Analytics,Analyst,5-10yrs,5-10yrs,10+yrs,Competent,Competent
+Erik Florentz,Information Technology / Infrastructure ,Consumer,1-3yrs,10+yrs,1-3yrs,Novice,Expert
+Kenneth Walker,Information Technology / Infrastructure ,null,5-10yrs,5-10yrs,5-10yrs,Novice,Competent
+Tyler Strout,Software Engineering,Engineer,<1yr,3-5yrs,3-5yrs,Novice,Advanced
+Rashida Dupuis,Business Intelligence / Data Analytics,Analyst,1-3yrs,3-5yrs,1-3yrs,Competent,Advanced
+Vikram Udeshi,Information Technology / Infrastructure ,Engineer,<1yr,10+yrs,<1yr,Novice,Expert
+Vince Phillips,Information Technology / Infrastructure ,Analyst,<1yr,5-10yrs,<1yr,Novice,Competent
+Matt Spangler,Business Intelligence / Data Analytics,Analyst,<1yr,5-10yrs,1-3yrs,Novice,Advanced
+Matt Wakeman,Business Intelligence / Data Analytics,Analyst,10+yrs,5-10yrs,10+yrs,Advanced,Competent
+Bradley Hovan,Research & Development Engineering,Analyst,<1yr,1-3yrs,1-3yrs,Novice,Competent
+Jennifer Grant,Business Intelligence / Data Analytics,Analyst,<1yr,3-5yrs,1-3yrs,Novice,Competent
+Christy Houston,Administration,Consumer,10+yrs,1-3yrs,10+yrs,Advanced,Novice
+Kirsten Ronning,Business Intelligence / Data Analytics,Analyst,<1yr,3-5yrs,3-5yrs,Competent,Advanced
+Paula Lawrence,Strategy and Operations,Analyst,10+yrs,10+yrs,10+yrs,Competent,Competent
+Jared Williams,Business Intelligence / Data Analytics,Consumer,1-3yrs,1-3yrs,3-5yrs,Competent,Novice
+Austin Wren,Information Technology / Infrastructure ,Engineer,<1yr,10+yrs,<1yr,Novice,Expert
+Paul,Clinical,Consumer,10+yrs,<1yr,10+yrs,Advanced,Novice
+Amy Bonser,Business Intelligence / Data Analytics,Quality Assurance,10+yrs,1-3yrs,10+yrs,Expert,Novice
+Mihir Jani,Information Technology / Infrastructure ,Engineer,<1yr,<1yr,<1yr,Novice,Novice
+Noell Olsen,Business Intelligence / Data Analytics,Analyst,5-10yrs,5-10yrs,5-10yrs,Competent,Competent
+Matt Christie,Business Intelligence / Data Analytics,Analyst,3-5yrs,10+yrs,3-5yrs,Competent,Competent
+Conor Ward,Business Intelligence / Data Analytics,Analyst,1-3yrs,1-3yrs,1-3yrs,Advanced,Advanced
+Kris Strawn,Business Intelligence / Data Analytics,Analyst,<1yr,10+yrs,1-3yrs,Novice,Competent
+John Malone,Business Intelligence / Data Analytics,Analyst,3-5yrs,10+yrs,3-5yrs,Competent,Expert
+Nikki Ryan,Business Intelligence / Data Analytics,Analyst,<1yr,1-3yrs,3-5yrs,Competent,Novice
+Christian Rivas,InVita Healthcare Technologies,null,10+yrs,10+yrs,10+yrs,Novice,Novice
+Stephanie Osborne,Business Intelligence / Data Analytics,Analyst,<1yr,3-5yrs,3-5yrs,Competent,Competent
+Stacey Hay,Quality Systems,Analyst,3-5yrs,5-10yrs,3-5yrs,Novice,Competent
+Lisa Thompson,Business Intelligence / Data Analytics,Lead BI team and develop strategy ;Consumer,3-5yrs,3-5yrs,<1yr,Competent,Competent
+Ed Horne,Business Intelligence / Data Analytics,Analyst,<1yr,10+yrs,5-10yrs,Novice,Expert
+Alana Pai,Administrative Services and Data Management,Analyst,1-3yrs,1-3yrs,null,Novice,Novice
+Bill Weger,Business Intelligence / Data Analytics,Quality Assurance,1-3yrs,5-10yrs,1-3yrs,Novice,Advanced
+Nancy Harper,Information Technology / Infrastructure ,null,null,10+yrs,1-3yrs,Novice,Advanced
+Ariella Wostein,Business Intelligence / Data Analytics,Analyst,3-5yrs,5-10yrs,<1yr,Competent,Competent
+Charlie Warms,Business Intelligence / Data Analytics,Quality Assurance,3-5yrs,10+yrs,3-5yrs,Novice,Advanced
+Lisa Delgado,Business Intelligence / Data Analytics,Analyst,<1yr,10+yrs,<1yr,Novice,Advanced
+Christy Tosney,"BI, IT, Quality, Training, and PI",Consumer,10+yrs,5-10yrs,5-10yrs,Competent,Novice
