@@ -1,88 +1,97 @@
 ﻿name,department,role,exp clinical,exp tech,exp donation,depth clinical,depth tech
-Cassie Hertert,Business Intelligence / Data Analytics,Consumer,1,11,10,2,3
-Michael Fite,Business Intelligence / Data Analytics,Analyst,10,10,11,3,3
-Brandon McKown,Information Technology / Infrastructure ,Analyst,1,11,5,0,4
-Dylan Taylor,Business Intelligence / Data Analytics,Analyst,1,3,3,1,3
-Jake Young,Business Intelligence / Data Analytics,Analyst,1,10,5,2,3
-Tiffany Kelly,Business Intelligence / Data Analytics,Consumer,3,3,10,3,2
-Andre Romain,Business Intelligence / Data Analytics,Analyst,10,10,11,3,3
-Jen Nevins,Quality Systems,Quality Assurance,11,3,3,2,1
-Matilin Rigsby,Business Intelligence / Data Analytics,Analyst,3,3,3,2,2
-Matthew A. Freil,Administration,Creator,11,3,11,4,1
-Tandy Smedberg,Business Intelligence / Data Analytics,Analyst,1,11,10,1,3
-David G Gonzalez,Management,Engineer,11,11,11,2,4
-Anna Adams,Business Intelligence / Data Analytics,Analyst,5,5,3,2,2
-John Stallbaum,Business Intelligence / Data Analytics,Consumer,11,11,11,3,2
-Kate Mackenzie,Business Intelligence / Data Analytics,Analyst,1,10,10,2,3
-Amanda Theis,Business Intelligence / Data Analytics,Analyst,0,10,0,0,2
-Bill Janczak,Business Intelligence / Data Analytics,Quality Assurance,10,11,10,3,3
-Traci Adams,Business Intelligence / Data Analytics,Consumer,11,1,11,4,1
-Greg Collins,Business Intelligence / Data Analytics,Analyst,10,10,11,2,2
-Erik Florentz,Information Technology / Infrastructure ,Consumer,3,11,3,1,4
-Kenneth Walker,Information Technology / Infrastructure ,Consumer,10,10,10,1,2
-Tyler Strout,Information Technology / Infrastructure ,Engineer,1,5,5,1,3
-Rashida Dupuis,Business Intelligence / Data Analytics,Analyst,3,5,3,2,3
-Vikram Udeshi,Information Technology / Infrastructure ,Engineer,1,11,1,1,4
-Vince Phillips,Information Technology / Infrastructure ,Analyst,1,10,1,1,2
-Matt Spangler,Business Intelligence / Data Analytics,Analyst,1,10,3,1,3
-Matt Wakeman,Business Intelligence / Data Analytics,Analyst,11,10,11,3,2
-Bradley Hovan,Research & Development Engineering,Analyst,1,3,3,1,2
-Jennifer Grant,Business Intelligence / Data Analytics,Analyst,1,5,3,1,2
-Christy Houston,Administration,Consumer,11,3,11,3,1
-Kirsten Ronning,Business Intelligence / Data Analytics,Analyst,1,5,5,2,3
-Paula Lawrence,Management,Analyst,11,11,11,2,2
-Jared Williams,Business Intelligence / Data Analytics,Consumer,3,3,5,2,1
-Austin Wren,Information Technology / Infrastructure ,Engineer,1,11,1,1,4
-Paul Lange,Clinical,Consumer,11,1,11,3,1
-Amy Bonser,Business Intelligence / Data Analytics,Quality Assurance,11,3,11,4,1
-Mihir Jani,Information Technology / Infrastructure ,Engineer,1,1,1,1,1
-Noell Olsen,Business Intelligence / Data Analytics,Analyst,10,10,10,2,2
-Matt Christie,Business Intelligence / Data Analytics,Analyst,5,11,5,2,2
-Conor Ward,Business Intelligence / Data Analytics,Analyst,3,3,3,3,3
-Kris Strawn,Business Intelligence / Data Analytics,Analyst,1,11,3,1,2
-John Malone,Business Intelligence / Data Analytics,Analyst,5,11,5,2,4
-Nikki Ryan,Business Intelligence / Data Analytics,Analyst,1,3,5,2,1
-Christian Rivas,Information Technology / Infrastructure ,Engineer,11,11,11,1,1
-Stephanie Osborne,Business Intelligence / Data Analytics,Analyst,1,5,5,2,2
-Lisa Thompson,Business Intelligence / Data Analytics,Consumer,5,5,1,2,2
-Ed Horne,Business Intelligence / Data Analytics,Analyst,1,11,10,1,4
-Alana Pai,Administration,Analyst,3,3,0,1,1
-Nancy Harper,Information Technology / Infrastructure ,Analyst,0,11,3,1,3
-Ariella Wostein,Business Intelligence / Data Analytics,Analyst,5,10,1,2,2
-Lisa Delgado,Business Intelligence / Data Analytics,Analyst,1,11,1,1,3
-Christy Tosney,Management,Consumer,11,10,10,2,1
-Alicia Skeen,Business Intelligence / Data Analytics,Quality Assurance,5,10,5,2,2
-Kayla Giancarlo,Business Intelligence / Data Analytics,Analyst,11,3,11,3,2
-Mary Alan Husske,Quality Systems,Quality Assurance,5,10,5,2,3
-Max Daniel,Business Intelligence / Data Analytics,Analyst,3,10,3,1,3
-Larry Suplee,Clinical,Consumer,11,11,11,4,3
-Steve Selby,Management,Analyst,0,11,10,3,4
-Pamela Deich,Business Intelligence / Data Analytics,Analyst,11,3,5,3,3
-Chaz Jones,Quality Systems,Quality Assurance,1,3,5,2,2
-Mike Vazquez,Quality Systems,Quality Assurance,10,5,10,3,2
-Emily Sainsbury,Business Intelligence / Data Analytics,Analyst,1,3,1,1,2
-Paul Malone,Business Intelligence / Data Analytics,Analyst,1,5,5,1,2
-Jeff Mathews,Business Intelligence / Data Analytics,Analyst,1,10,1,2,2
-Kasper Statz,Quality Systems,Consumer,0,0,11,3,2
-Joe Piccirilli,Information Technology / Infrastructure ,Engineer,0,11,0,0,4
-Judy Gierlach,Quality Systems,Quality Assurance,11,3,3,4,1
-Timothy Wyatt,Information Technology / Infrastructure ,Analyst,0,11,10,1,4
-Cassandra McLendon,Quality Systems,Quality Assurance,1,3,10,2,2
-Chaz Birge,Information Technology / Infrastructure ,Engineer,1,11,10,1,4
-Jonathan Baldanza,Management,Engineer,11,11,11,2,3
-Riley Smith,Business Intelligence / Data Analytics,Analyst,1,5,1,1,2
-Brian Lunde,Information Technology / Infrastructure ,Consumer,0,11,11,1,3
-Lee Keddie,Management,Consumer,10,10,10,1,2
-David O'Hara,Business Intelligence / Data Analytics,Creator,11,11,11,3,3
-Jessica Streeter,Clinical,Consumer,11,3,11,3,1
-Brandi Turner,Quality Systems,Analyst,0,11,11,2,2
-Carrie Sparks,Business Intelligence / Data Analytics,Analyst,11,11,11,0,0
-Jonathan Hewlett,Business Intelligence / Data Analytics,Creator,11,10,11,4,3
-Amira Bass,Business Intelligence / Data Analytics,Analyst,0,10,3,0,3
-Rachel Platt,Information Technology / Infrastructure ,Creator,1,3,11,1,2
-Kristin Delli Carpini,Business Intelligence / Data Analytics,Consumer,11,0,11,3,1
-Naimisha Chakravarthula,Business Intelligence / Data Analytics,Quality Assurance,1,10,10,2,3
-Matt ,Information Technology / Infrastructure ,Consumer,1,11,11,1,4
-Robbie Glazner,Business Intelligence / Data Analytics,Consumer,11,10,11,2,2
-Joe Spitz,Business Intelligence / Data Analytics,Quality Assurance,11,11,11,3,4
-Jesse Coble,Business Intelligence / Data Analytics,Analyst,0,11,11,1,3
+Cassie Hertert,7 Business Intelligence / Data Analytics,Consumer,1,11,10,2,3
+Michael Fite,7 Business Intelligence / Data Analytics,Analyst,10,10,11,3,3
+Brandon McKown,6 Information Technology / Infrastructure ,Analyst,1,11,5,0,4
+Dylan Taylor,7 Business Intelligence / Data Analytics,Analyst,1,3,3,1,3
+Jake Young,7 Business Intelligence / Data Analytics,Analyst,1,10,5,2,3
+Tiffany Kelly,7 Business Intelligence / Data Analytics,Consumer,3,3,10,3,2
+Andre Romain,7 Business Intelligence / Data Analytics,Analyst,10,10,11,3,3
+Jen Nevins,4 Quality Systems,Quality Assurance,11,3,3,2,1
+Matilin Rigsby,7 Business Intelligence / Data Analytics,Analyst,3,3,3,2,2
+Matthew A. Freil,2 Administration,Creator,11,3,11,4,1
+Tandy Smedberg,7 Business Intelligence / Data Analytics,Analyst,1,11,10,1,3
+David G Gonzalez,3 Management,Engineer,11,11,11,2,4
+Anna Adams,7 Business Intelligence / Data Analytics,Analyst,5,5,3,2,2
+John Stallbaum,7 Business Intelligence / Data Analytics,Consumer,11,11,11,3,2
+Kate Mackenzie,7 Business Intelligence / Data Analytics,Analyst,1,10,10,2,3
+Amanda Theis,7 Business Intelligence / Data Analytics,Analyst,0,10,0,0,2
+Bill Janczak,7 Business Intelligence / Data Analytics,Quality Assurance,10,11,10,3,3
+Traci Adams,7 Business Intelligence / Data Analytics,Consumer,11,1,11,4,1
+Greg Collins,7 Business Intelligence / Data Analytics,Analyst,10,10,11,2,2
+Erik Florentz,6 Information Technology / Infrastructure ,Consumer,3,11,3,1,4
+Kenneth Walker,6 Information Technology / Infrastructure ,Consumer,10,10,10,1,2
+Tyler Strout,6 Information Technology / Infrastructure ,Engineer,1,5,5,1,3
+Rashida Dupuis,7 Business Intelligence / Data Analytics,Analyst,3,5,3,2,3
+Vikram Udeshi,6 Information Technology / Infrastructure ,Engineer,1,11,1,1,4
+Vince Phillips,6 Information Technology / Infrastructure ,Analyst,1,10,1,1,2
+Matt Spangler,7 Business Intelligence / Data Analytics,Analyst,1,10,3,1,3
+Matt Wakeman,7 Business Intelligence / Data Analytics,Analyst,11,10,11,3,2
+Bradley Hovan,5 Research & Development Engineering,Analyst,1,3,3,1,2
+Jennifer Grant,7 Business Intelligence / Data Analytics,Analyst,1,5,3,1,2
+Christy Houston,2 Administration,Consumer,11,3,11,3,1
+Kirsten Ronning,7 Business Intelligence / Data Analytics,Analyst,1,5,5,2,3
+Paula Lawrence,3 Management,Analyst,11,11,11,2,2
+Jared Williams,7 Business Intelligence / Data Analytics,Consumer,3,3,5,2,1
+Austin Wren,6 Information Technology / Infrastructure ,Engineer,1,11,1,1,4
+Paul Lange,1 Clinical,Consumer,11,1,11,3,1
+Amy Bonser,7 Business Intelligence / Data Analytics,Quality Assurance,11,3,11,4,1
+Mihir Jani,6 Information Technology / Infrastructure ,Engineer,1,1,1,1,1
+Noell Olsen,7 Business Intelligence / Data Analytics,Analyst,10,10,10,2,2
+Matt Christie,7 Business Intelligence / Data Analytics,Analyst,5,11,5,2,2
+Conor Ward,7 Business Intelligence / Data Analytics,Analyst,3,3,3,3,3
+Kris Strawn,7 Business Intelligence / Data Analytics,Analyst,1,11,3,1,2
+John Malone,7 Business Intelligence / Data Analytics,Analyst,5,11,5,2,4
+Nikki Ryan,7 Business Intelligence / Data Analytics,Analyst,1,3,5,2,1
+Christian Rivas,6 Information Technology / Infrastructure ,Engineer,11,11,11,1,1
+Stephanie Osborne,7 Business Intelligence / Data Analytics,Analyst,1,5,5,2,2
+Lisa Thompson,7 Business Intelligence / Data Analytics,Consumer,5,5,1,2,2
+Ed Horne,7 Business Intelligence / Data Analytics,Analyst,1,11,10,1,4
+Alana Pai,2 Administration,Analyst,3,3,0,1,1
+Nancy Harper,6 Information Technology / Infrastructure ,Analyst,0,11,3,1,3
+Ariella Wostein,7 Business Intelligence / Data Analytics,Analyst,5,10,1,2,2
+Lisa Delgado,7 Business Intelligence / Data Analytics,Analyst,1,11,1,1,3
+Christy Tosney,3 Management,Consumer,11,10,10,2,1
+Alicia Skeen,7 Business Intelligence / Data Analytics,Quality Assurance,5,10,5,2,2
+Kayla Giancarlo,7 Business Intelligence / Data Analytics,Analyst,11,3,11,3,2
+Mary Alan Husske,4 Quality Systems,Quality Assurance,5,10,5,2,3
+Max Daniel,7 Business Intelligence / Data Analytics,Analyst,3,10,3,1,3
+Larry Suplee,1 Clinical,Consumer,11,11,11,4,3
+Steve Selby,3 Management,Analyst,0,11,10,3,4
+Pamela Deich,7 Business Intelligence / Data Analytics,Analyst,11,3,5,3,3
+Chaz Jones,4 Quality Systems,Quality Assurance,1,3,5,2,2
+Mike Vazquez,4 Quality Systems,Quality Assurance,10,5,10,3,2
+Emily Sainsbury,7 Business Intelligence / Data Analytics,Analyst,1,3,1,1,2
+Paul Malone,7 Business Intelligence / Data Analytics,Analyst,1,5,5,1,2
+Jeff Mathews,7 Business Intelligence / Data Analytics,Analyst,1,10,1,2,2
+Kasper Statz,4 Quality Systems,Consumer,0,0,11,3,2
+Joe Piccirilli,6 Information Technology / Infrastructure ,Engineer,0,11,0,0,4
+Judy Gierlach,4 Quality Systems,Quality Assurance,11,3,3,4,1
+Timothy Wyatt,6 Information Technology / Infrastructure ,Analyst,0,11,10,1,4
+Cassandra McLendon,4 Quality Systems,Quality Assurance,1,3,10,2,2
+Chaz Birge,6 Information Technology / Infrastructure ,Engineer,1,11,10,1,4
+Jonathan Baldanza,3 Management,Engineer,11,11,11,2,3
+Riley Smith,7 Business Intelligence / Data Analytics,Analyst,1,5,1,1,2
+Brian Lunde,6 Information Technology / Infrastructure ,Consumer,0,11,11,1,3
+Lee Keddie,3 Management,Consumer,10,10,10,1,2
+David O'Hara,7 Business Intelligence / Data Analytics,Creator,11,11,11,3,3
+Jessica Streeter,1 Clinical,Consumer,11,3,11,3,1
+Brandi Turner,4 Quality Systems,Analyst,0,11,11,2,2
+Carrie Sparks,7 Business Intelligence / Data Analytics,Analyst,11,11,11,0,0
+Jonathan Hewlett,7 Business Intelligence / Data Analytics,Creator,11,10,11,4,3
+Amira Bass,7 Business Intelligence / Data Analytics,Analyst,0,10,3,0,3
+Rachel Platt,6 Information Technology / Infrastructure ,Creator,1,3,11,1,2
+Kristin Delli Carpini,7 Business Intelligence / Data Analytics,Consumer,11,0,11,3,1
+Naimisha Chakravarthula,7 Business Intelligence / Data Analytics,Quality Assurance,1,10,10,2,3
+Matt ,6 Information Technology / Infrastructure ,Consumer,1,11,11,1,4
+Robbie Glazner,7 Business Intelligence / Data Analytics,Consumer,11,10,11,2,2
+Joe Spitz,7 Business Intelligence / Data Analytics,Quality Assurance,11,11,11,3,4
+Jesse Coble,7 Business Intelligence / Data Analytics,Analyst,0,11,11,1,3
+Stacey Hay,4 Quality Systems,Analyst,5,10,5,1,2
+Bill Weger,7 Business Intelligence / Data Analytics,Quality Assurance,3,10,3,1,3
+Megan Genna,2 Administration,Analyst,1,1,1,1,1
+Brittany Dickson,7 Business Intelligence / Data Analytics,Analyst,1,1,5,1,1
+Chhavi Solanky ,6 Information Technology / Infrastructure ,Analyst,0,11,11,2,4
+Jeff Sterrette,6 Information Technology / Infrastructure ,Engineer,0,11,0,0,3
+Zac Laidley,7 Business Intelligence / Data Analytics,Analyst,10,11,5,2,3
+Diana Ponce-Martel ,1 Clinical,Creator,10,10,11,2,2
+Allen Edge,7 Business Intelligence / Data Analytics,Analyst,1,1,3,1,3
